@@ -1,0 +1,1 @@
+This is practice for the Odin Project, making a recreation of the Google homepage. It was a lot harder than I thought it would be, but I think it is starting to make more sense. I'm looking forward to learning more straight forward ways to create the elements, because it seemed a little all over the place in my CSS. 
